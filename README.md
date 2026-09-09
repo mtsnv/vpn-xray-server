@@ -130,6 +130,7 @@ exit
 и меняем её на
 
 **PasswordAuthentication no**
+
 **Port 11222**
 
 Сохраняем файл.
